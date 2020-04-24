@@ -2158,7 +2158,7 @@
             <zone h='96473' id='1' param='vert' removable='false' type='layout-flow' w='98426' x='787' y='2697'>
               <zone h='10477' id='4' is-fixed='true' paired-zone-id='5' removable='false' type='flipboard-nav' w='98426' x='787' y='2697' />
               <zone h='85996' id='5' paired-zone-id='4' removable='false' type='flipboard' w='98426' x='787' y='13174'>
-                <flipboard active-id='8' nav-type='caption' show-nav-arrows='true'>
+                <flipboard active-id='4' nav-type='caption' show-nav-arrows='true'>
                   <story-points>
                     <story-point caption='The majority of the NYC Citit Bike riders are male. Riders 55 years old and younger ride the Citi Bikes for the longest duration of time. ' captured-sheet='NYC Citi Bike' id='7'>
                       <capturedDeltas>
@@ -2588,7 +2588,7 @@
     </window>
     <window class='dashboard' maximized='true' name='Story 1'>
       <viewpoints />
-      <active id='4' />
+      <active id='-1' />
       <simple-id uuid='{752C6A1D-48C7-4C94-8E4E-D6DAE09BFC8A}' />
     </window>
     <window class='dashboard' name='What is the Population of Des Moines'>
